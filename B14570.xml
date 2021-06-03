@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders conceiued and thought fit, asvvell by the Lord Maior of the City of London and the aldermen his brethren, as by the iustices of peace in the countie of Middlesex, the borough of Southwarke, and county of Surrey to be obserued within their seuerall limits respectiuely, in the time of the infection of the plague, (if it shall so please Almighty God) for suppression and preuention of the dispersing thereof, according to the statute in that behalfe made in Parliament in the first yeare of the raigne of our soueraigne lord King Iames.</title>
+            <title>Acts &amp; Orders. 1608</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14570</idno><idno type="EEBO-CITATION">99857260</idno>
+  <idno type="VID">178080</idno>
+  <idno type="EEBO-PROQUEST">2240894583</idno>
+  <idno type="STC">STC 16723</idno>
+  <idno type="STC">ESTC S122108</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857260e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1385:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders conceiued and thought fit, asvvell by the Lord Maior of the City of London and the aldermen his brethren, as by the iustices of peace in the countie of Middlesex, the borough of Southwarke, and county of Surrey to be obserued within their seuerall limits respectiuely, in the time of the infection of the plague, (if it shall so please Almighty God) for suppression and preuention of the dispersing thereof, according to the statute in that behalfe made in Parliament in the first yeare of the raigne of our soueraigne lord King Iames.</title>
+                  <title>Acts &amp; Orders. 1608</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn VVindet, printer to the honourable Citie of London,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1608]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  Prevention --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178080:1"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </head>
+            <head>Orders conceiued and thought fit, asvvell by the Lord Maior of the City of Lon<g ref="char:EOLhyphen"/>don and the Aldermen his Brethren, as by the Iustices of <hi>Peace in the Countie of Middlesex, the Borough of Southwarke, and</hi> County of Surrey to be obserued within their seuerall limits respectiuely, in the time <hi>of the infection of the Plague, (if it shall so please Almighty God) for suppression and</hi> preuention of the dispersing thereof, according to the Statute in that be<g ref="char:EOLhyphen"/>halfe made in Parliament in the first yeare of the Raigne of <hi>our Soueraigne Lord King</hi> IAMES.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>NPRIMIS,</hi> that in euery parish of the said Citie, and Borough within fowre miles of the same, there be appointed according to the Statute, Examiners, Searchers, Watchmen, and Buriers of the dead, who vpon oath to them giuen, shall discharge their duties as they shall bee directed in that behalfe. The charge of the allowance to them to be made, to bee borne by the party, whose house is or shall be visited (if he be able), if not, then by the parish, or by an equall taxation thereof to be made and subscribed by the Alderman of the Warde within the Citie, or liberties thereof, and Borough of Southwarke, and by the two next Iustices of Peace, out of the Citie. Prouided alwayes, that where any Parish is so scituated as one parte thereof is within the said City, and liberties therof, or Borough of Southwark, and the other parte in eyther of the said counties, that there the said Taxes to be made, and the said Examiners, Searchers, Watchmen and Buriers to be appointed by the said Lord Maior, Aldermen and Iustices respectiuely within their seuerall limits.</p>
+            <p>
+               <hi>Item</hi> the Examiners are to learne out and enquire what howses in euery parish be visited, aswell before death as after: before death, by taking knowledge of euery one that is sicke, and of what disease so neare as he can be enformed: and after death, by the report of the searchers: and he is to make knowne to the next Constable what persons are indeed, or suspected to be sicke of the Plague, and to giue present notice to the same Constable of any such infected house, aswell before death as after.</p>
+            <p>
+               <hi>Item</hi> that Watchmen are to attend the outward dores of euery house visited, day and night, by standing neere vnto the dores in readines, aswell to giue warning to any that shall approach the house, as to prouide necessaries for them within and shut vp.</p>
+            <p>
+               <hi>Item</hi> precise order to be taken that the Searchers, Keepers and Buriers, are not to passe the streetes without holding a red rod or wand of three foot in length in their hands, open and euident to be seene, and are not to go into any other house than into their owne, or into that wherunto they are directed or sent for: but to forbeare and abstaine from company, especially when they haue been lately vsed in any such busines or attendance.</p>
+            <p>
+               <hi>Item</hi> if any the persons aforesaid, shall bee found to offend contrary to these directions, any the saide Aldermen or Iu<g ref="char:EOLhyphen"/>stices vpon notice thereof, shall punish the party offending with imprisonment, and by withholding his allowance, or other<g ref="char:EOLhyphen"/>wise as they shall thinke fitte. And it is likewise left to their discretions how to punish and proceede against any person or persons, thought meete for any of these imployments, and yet refusing the same.</p>
+            <p>
+               <hi>Item</hi> the Constables are to see euery house visited, shutte vp, and to bee attended with watchmen, which may keepe them in, and minister necessaries vnto them, at their owne charges (if they be able) or at the common charge (if they be vna<g ref="char:EOLhyphen"/>ble) the shutting vp to be for the space of foure weekes after all be whole.</p>
+            <p>
+               <hi>Item</hi> a weekly taxe is to be made in euery parish visited, if in the Citie or Borough, then vnder the hand of the Alder-man of the ward where the place is visited, if in either of the Counties, then vnder the hands of some of the Iustices next to the place visited, who, if there be cause may extend the taxe into other parishes also, and may geue warrant of distresse against them which shall refuse to pay, and for want of distresse to commit the offenders to prison.</p>
+            <p>
+               <hi>Item</hi> that none be remoued out of the house, where he falleth sicke of the infrection, into any other house in the City, Bo<g ref="char:EOLhyphen"/>rough or counties, except it be vnto some such house, as the owner of the said visited house, holdeth in his owne handes, and occupieth by his owne seruants, from and out of the Citty, to the pest house: and so as securitie be giuen to the parish, whither such remoue is made, that the attendance and charge about the said visited persons, shall be obserued and discharged in all the particularities before expressed without any cost of that parish, to the which any such remoue shall fortune to be made. And it shal be lawfull to any person that hath two pouses, to remoue either his sound or his infected people to his spare house (at his chosce) so as if he send away first his sound he may not after send thither the sicke, nor againe vnto the sicke, the sound. And that the sound, which he sendeth, be for one weeke at the least shut vp and secluded from company for feare of some infections, at first not appearing.</p>
+            <p>
+               <hi>Item</hi> that the statute be duely and seuerely executed against such as do go abroad out of a visited house with sores on them, or without sores, as the statute doth distinguish the same, (that is to say) those with sores on them, so offending, to be puni<g ref="char:EOLhyphen"/>shed as felons, and without sores offending, to be punished by whipping.</p>
+            <p>
+               <hi>Item</hi> that the buriall of the dead by this visitation be at most conuenient houres, alwaies either before Sunne rising or after Sunne setting with the priuity of the Churchwardens, or Constable, and not otherwise: and that no neighbours, nor friends, be suffered to accompany the coarse to Church, or to enter the house visited to that ende, nor the same coarse be suffered to be brought within the church, nor any cloathes, stuffe, bedding, or garmēts be suffered to be carried or conueied out of any in<g ref="char:EOLhyphen"/>fected house, And that the cryers and cariers abroad of Bedding or old apparell to be sould or pawned, be vtterly prohibited &amp; restrained. And no Brokers of Bedding or of old apparel, be permitted to make any outward shew or hang forth on their stalles, shop boards or windowes towards any streete, lane, common way, or passage any old bedding or apparell to be sold.</p>
+            <p>
+               <hi>Item</hi> that all Plaies, Fensings, Bearebaitings, Games, singing of Ballets, Bucklerplay, and such like causes of assemblies of people vpon needlesse occasions be vtterly prohibited.</p>
+            <p>
+               <hi>Item</hi> that the sweeping and filth of houses be not suffered to be laid in heapes in the streets, but to be caried away by the Scauengers, or Rakers from the kitchin to the cart, as heretofore hath been vsed, to auoyd annoyance and infection, espe<g ref="char:EOLhyphen"/>cially of visited houses.</p>
+            <pb facs="tcp:178080:2"/>
+            <p>
+               <hi>Item</hi> that the statute be duely and seuerely executed against such as do go abroad out of a visited house with sores on them, or without sores, as the statute doth distinguish the same, (that is to say) those with sores on them, so offending, to be puni<g ref="char:EOLhyphen"/>shed as felons, and without sores offending, to be punished by whipping.</p>
+            <p>
+               <hi>Item</hi> that the buriall of the dead by this visitsation be at most conuenient houres, alwaies either before Sunne rising or after Sunne setting with the priuity of the Churchwardens, or Constable, and not otherwise: and that no neighbours, nor friends, be suffered to accompany the coarse to Church, or to enter the house visited to that ende, nor the same coarse be suffered to be brought within the church, nor any cloathes, stuffe, bedding, or garmēts be suffered to be cartied or conueied out of any in<g ref="char:EOLhyphen"/>fected house, And that the cryers and cariers abroad of Bedding or old apparell to be sould or pawned, be vtterly prohibited &amp; restrained. And no Brokers of Bedding or of old apparel, be permitted to make any outward shew or hang forth on their stalles, shop boards or windowes towards any streete, lane, common way, or passage any old bedding or apparell to be sold.</p>
+            <p>
+               <hi>Item</hi> that all Plaies, Fensings, Bearebaitings, Games, singing of Ballets, Bucklerplay, and such like causes of assemblies of people vpon needlesse occasions be vtterly prohibited.</p>
+            <p>
+               <hi>Item</hi> that the sweeping and filth of houses be not suffered to be laid in heapes in the streets, but to be caried away by the Scauengers, or Rakers from the kitchin to the cart, as heretofore hath been vsed, to auoyd annoyance and infection, espe<g ref="char:EOLhyphen"/>cially of visited houses.</p>
+            <p>
+               <hi>Item</hi> that neither Hogges, Dogs, or cattes, be suffered to be, or stray in the streets, or lanes, of the citie or subutbes, nor pla<g ref="char:EOLhyphen"/>ces neere adioyning. But that the Hogges be impounded till the owners of them conforme themselues to better order, and the dogges to be killed by some appointed for that purpose.</p>
+            <p>
+               <hi>Item</hi> if any person visited do fortune by negligent looking vnto, or by other meanes, to come or bee conueyed from a place infected to any other place, the parish from whence such party hath come or beene conueyed, vpon notise thereof giuen shall at their charge cause the said partie to visited and escaped, to be carried and brought backe again, and the parties in this case offending to be punished at the discretion of the Alderman of the warde and the Iustices of Peace respectiuely, and the house of the receiuer of such visited person to be shut vp.</p>
+            <p>
+               <hi>Item</hi> that euery house visited be marked with a red Crosse of a foote long on the dore, euident to be seene, and with these vsuall printed words (that is to say) <hi>Lord haue mercy vpon vs,</hi> to be set ouer the same dore, there to continue, till lawfull ope<g ref="char:EOLhyphen"/>ning of the same house.</p>
+            <p>
+               <hi>Item</hi> that if any persons trusted or charged in this busines, or offending against any the foresaid Orders and Articles, be complained of to the Alderman of the warde within the Citie or Borough, or to any Iustice of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace within the said Counti<g ref="char:EOLhyphen"/>es for remissenes, partiality, stubbornenes, or other misbehauing themselues, and the same appeare to be true, present order be taken, that according to the quality of the offence, such persons be bound ouer with sureties to appeare at the next Sessions there to be proceeded against, for the example of others.</p>
+            <p>
+               <hi>Item</hi> that the Lord Maior, euery Alderman and their Deputies, and the Iustices of Peace within their limits respec<g ref="char:EOLhyphen"/>tiuely, do once euery Fortnight, or oftner, if neede be, call euery Examiner to account for the due execution of his charge, and duty in this busines.</p>
+            <p>
+               <hi>Finally</hi> to the ende all persons, whom these Orders, or any of them doe or may in any sort concerne, may for their better obseruation thereof, take due notice of the same: It is thought fitte, and so ordered that the saide Orders be Printed, open<g ref="char:EOLhyphen"/>ly reade, and published in euery Parish Church, at the most conuenient time of the greatest assembles there.</p>
+         </div>
+         <closer>God saue the King.</closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Iohn VVindet, Printer to the honourable Citie of London. 1608</p>
+         </div>
+      </back>
+   </text>
+</TEI>
